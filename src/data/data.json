@@ -1,0 +1,420 @@
+{
+    "tests": [
+      {
+        "id": 1,
+        "title": "Đề thi 01",
+        "questions": [
+          
+          {
+            "id": 1,
+            "text": "Từ nào viết đúng chính tả?",
+            "category": "Quy tắc chính tả",
+            "difficulty": "easy",
+            "options": [
+              {"id": "a", "text": "Lói chuyện"},
+              {"id": "b", "text": "Nái chuyện"},
+              {"id": "c", "text": "Nói chuyện"},
+              {"id": "d", "text": "Lỏi chuyện"}
+            ],
+            "correctAnswer": "c"
+          },
+          {
+            "id": 2,
+            "text": "Chọn từ viết sai chính tả:",
+            "category": "Quy tắc chính tả",
+            "difficulty": "easy",
+            "options": [
+              {"id": "a", "text": "Sáng suốt"},
+              {"id": "b", "text": "Sáng sủa"},
+              {"id": "c", "text": "Sám sửa"},
+              {"id": "d", "text": "Xoa dịu"}
+            ],
+            "correctAnswer": "c"
+          },
+          {
+            "id": 3,
+            "text": "Điền từ phù hợp: \"Cây cối trong vườn đã ... sau trận mưa lớn.\"",
+            "category": "Mở rộng vốn từ",
+            "difficulty": "easy",
+            "options": [
+              {"id": "a", "text": "Xanh tươi"},
+              {"id": "b", "text": "Héo úa"},
+              {"id": "c", "text": "Khô héo"},
+              {"id": "d", "text": "Chín rộ"}
+            ],
+            "correctAnswer": "a"
+          },
+          {
+            "id": 4,
+            "text": "Từ nào chỉ sự vật?",
+            "category": "Từ loại",
+            "difficulty": "easy",
+            "options": [
+              {"id": "a", "text": "Cái bàn"},
+              {"id": "b", "text": "Chạy bộ"},
+              {"id": "c", "text": "Nhanh nhẹn"},
+              {"id": "d", "text": "Đẹp đẽ"}
+            ],
+            "correctAnswer": "a"
+          },
+          {
+            "id": 5,
+            "text": "Câu nào là câu nêu hoạt động?",
+            "category": "Loại câu",
+            "difficulty": "medium",
+            "options": [
+              {"id": "a", "text": "Hoa cúc nở rất đẹp."},
+              {"id": "b", "text": "Lan đi học về sớm."},
+              {"id": "c", "text": "Chiếc bàn đã cũ."},
+              {"id": "d", "text": "Trời hôm nay trong xanh."}
+            ],
+            "correctAnswer": "b"
+          },
+          {
+            "id": 6,
+            "text": "Điền dấu câu thích hợp: \"Hôm nay trời đẹp ....\"",
+            "category": "Dấu câu",
+            "difficulty": "easy",
+            "options": [
+              {"id": "a", "text": "dấu chấm"},
+              {"id": "b", "text": "dấu phẩy"},
+              {"id": "c", "text": "dấu chấm hỏi"},
+              {"id": "d", "text": "dấu chấm than"}
+            ],
+            "correctAnswer": "a"
+          },
+          {
+            "id": 7,
+            "text": "Câu nào sử dụng biện pháp so sánh?",
+            "category": "Biện pháp nghệ thuật",
+            "difficulty": "medium",
+            "options": [
+              {"id": "a", "text": "Mặt trời đỏ như quả cầu lửa."},
+              {"id": "b", "text": "Bé đang chơi đùa trong sân."},
+              {"id": "c", "text": "Trời hôm nay trong xanh."},
+              {"id": "d", "text": "Chúng ta yêu quê hương."}
+            ],
+            "correctAnswer": "a"
+          },
+          {
+            "id": 8,
+            "text": "Thành ngữ nào nói về sự đoàn kết?",
+            "category": "Thành ngữ - Tục ngữ",
+            "difficulty": "medium",
+            "options": [
+              {"id": "a", "text": "Một cây làm chẳng nên non"},
+              {"id": "b", "text": "Ăn quả nhớ kẻ trồng cây"},
+              {"id": "c", "text": "Tốt gỗ hơn tốt nước sơn"},
+              {"id": "d", "text": "Có công mài sắt, có ngày nên kim"}
+            ],
+            "correctAnswer": "a"
+          },
+          {
+            "id": 9,
+            "text": "Từ nào thuộc nhóm từ chỉ hoạt động?",
+            "category": "Từ loại",
+            "difficulty": "easy",
+            "options": [
+              {"id": "a", "text": "Đi bộ"},
+              {"id": "b", "text": "Cái bàn"},
+              {"id": "c", "text": "Nhanh nhẹn"},
+              {"id": "d", "text": "Đẹp đẽ"}
+            ],
+            "correctAnswer": "a"
+          },
+          {
+            "id": 10,
+            "text": "Câu nào cần dấu chấm hỏi?",
+            "category": "Dấu câu",
+            "difficulty": "easy",
+            "options": [
+              {"id": "a", "text": "Hôm nay trời rất đẹp."},
+              {"id": "b", "text": "Bạn đã ăn cơm chưa"},
+              {"id": "c", "text": "Lan đang đọc sách."},
+              {"id": "d", "text": "Hoa nở rất đẹp."}
+            ],
+            "correctAnswer": "b"
+          },
+          {
+            "id": 11,
+            "text": "Điền từ phù hợp: \"Bạn Lan rất ... vì luôn giúp đỡ bạn bè.\"",
+            "category": "Mở rộng vốn từ",
+            "difficulty": "easy",
+            "options": [
+              {"id": "a", "text": "Tốt bụng"},
+              {"id": "b", "text": "Lười biếng"},
+              {"id": "c", "text": "Ích kỷ"},
+              {"id": "d", "text": "Nóng nảy"}
+            ],
+            "correctAnswer": "a"
+          },
+          {
+            "id": 12,
+            "text": "Chọn từ phù hợp để điền vào câu sau: \"Cây ... đang trổ bông ngoài vườn.\"",
+            "category": "Mở rộng vốn từ",
+            "difficulty": "easy",
+            "options": [
+              {"id": "a", "text": "cau"},
+              {"id": "b", "text": "trâu"},
+              {"id": "c", "text": "châu"},
+              {"id": "d", "text": "sâu"}
+            ],
+            "correctAnswer": "a"
+          },
+          {
+            "id": 13,
+            "text": "Từ nào thuộc nhóm từ chỉ đặc điểm?",
+            "category": "Từ loại",
+            "difficulty": "easy",
+            "options": [
+              {"id": "a", "text": "Xanh mướt"},
+              {"id": "b", "text": "Chạy nhảy"},
+              {"id": "c", "text": "Cây cối"},
+              {"id": "d", "text": "Học bài"}
+            ],
+            "correctAnswer": "a"
+          },
+          {
+            "id": 14,
+            "text": "Điền dấu câu thích hợp: \"Mai có đi học thêm không ....\"",
+            "category": "Dấu câu",
+            "difficulty": "easy",
+            "options": [
+              {"id": "a", "text": "dấu chấm hỏi"},
+              {"id": "b", "text": "dấu phẩy"},
+              {"id": "c", "text": "dấu chấm"},
+              {"id": "d", "text": "dấu chấm than"}
+            ],
+            "correctAnswer": "a"
+          },
+          {
+            "id": 15,
+            "text": "Thành ngữ nào nói về lòng biết ơn?",
+            "category": "Thành ngữ - Tục ngữ",
+            "difficulty": "medium",
+            "options": [
+              {"id": "a", "text": "Ăn quả nhớ kẻ trồng cây"},
+              {"id": "b", "text": "Có công mài sắt, có ngày nên kim"},
+              {"id": "c", "text": "Nước chảy đá mòn"},
+              {"id": "d", "text": "Lá lành đùm lá rách"}
+            ],
+            "correctAnswer": "a"
+          },
+          {
+            "id": 16,
+            "text": "Câu nào sử dụng biện pháp nghệ thuật so sánh?",
+            "category": "Biện pháp nghệ thuật",
+            "difficulty": "medium",
+            "options": [
+              {"id": "a", "text": "Tiếng suối trong như tiếng hát xa."},
+              {"id": "b", "text": "Trời hôm nay thật đẹp."},
+              {"id": "c", "text": "Bé chăm chỉ học bài."},
+              {"id": "d", "text": "Ngôi nhà nằm yên bên dòng sông."}
+            ],
+            "correctAnswer": "a"
+          },
+          {
+            "id": 17,
+            "text": "Câu nào là câu giới thiệu?",
+            "category": "Loại câu",
+            "difficulty": "easy",
+            "options": [
+              {"id": "a", "text": "Hôm nay là ngày khai giảng."},
+              {"id": "b", "text": "Bé đang chơi đùa trong sân."},
+              {"id": "c", "text": "Lan đang đọc sách."},
+              {"id": "d", "text": "Cô giáo dạy rất hay."}
+            ],
+            "correctAnswer": "a"
+          },
+          {
+            "id": 18,
+            "text": "Sắp xếp các từ sau thành câu có nghĩa: \"học / Lan / bài / chăm chỉ.\"",
+            "category": "Sắp xếp câu",
+            "difficulty": "medium",
+            "options": [
+              {"id": "a", "text": "Lan chăm chỉ học bài."},
+              {"id": "b", "text": "Học chăm chỉ Lan bài."},
+              {"id": "c", "text": "Bài Lan học chăm chỉ."},
+              {"id": "d", "text": "Lan bài học chăm chỉ."}
+            ],
+            "correctAnswer": "a"
+          },
+          {
+            "id": 19,
+            "text": "Điền từ thích hợp để tạo thành câu đúng: \"Bé đang ... ngoài sân.\"",
+            "category": "Lựa chọn từ ngữ",
+            "difficulty": "easy",
+            "options": [
+              {"id": "a", "text": "chạy nhảy"},
+              {"id": "b", "text": "xanh mướt"},
+              {"id": "c", "text": "nghiêm túc"},
+              {"id": "d", "text": "lặng lẽ"}
+            ],
+            "correctAnswer": "a"
+          },
+          {
+            "id": 20,
+            "text": "Chọn từ có nghĩa phù hợp: \"Hoa hồng là loài hoa ... nhất.\"",
+            "category": "Nghĩa của từ",
+            "difficulty": "easy",
+            "options": [
+              {"id": "a", "text": "đẹp"},
+              {"id": "b", "text": "cao"},
+              {"id": "c", "text": "sâu"},
+              {"id": "d", "text": "nhỏ"}
+            ],
+            "correctAnswer": "a"
+          },
+          {
+            "id": 21,
+            "text": "Câu nào cần dấu chấm than?",
+            "category": "Dấu câu",
+            "difficulty": "medium",
+            "options": [
+              {"id": "a", "text": "Hôm nay trời rất đẹp"},
+              {"id": "b", "text": "Lan đang đọc sách"},
+              {"id": "c", "text": "Bạn có đi học không"},
+              {"id": "d", "text": "Thật là một ngày tuyệt vời"}
+            ],
+            "correctAnswer": "d"
+          },
+          {
+            "id": 22,
+            "text": "Thành ngữ nào khuyên ta không nên làm việc vội vàng?",
+            "category": "Thành ngữ - Tục ngữ",
+            "difficulty": "medium",
+            "options": [
+              {"id": "a", "text": "Chậm mà chắc"},
+              {"id": "b", "text": "Nhanh nhảu đoảng"},
+              {"id": "c", "text": "Một cây làm chẳng nên non"},
+              {"id": "d", "text": "Có công mài sắt, có ngày nên kim"}
+            ],
+            "correctAnswer": "a"
+          },
+          {
+            "id": 23,
+            "text": "Từ nào chỉ hoạt động?",
+            "category": "Từ loại",
+            "difficulty": "easy",
+            "options": [
+              {"id": "a", "text": "Hát"},
+              {"id": "b", "text": "Xanh"},
+              {"id": "c", "text": "Bàn"},
+              {"id": "d", "text": "Đỏ"}
+            ],
+            "correctAnswer": "a"
+          },
+          {
+            "id": 24,
+            "text": "Sắp xếp các ý sau để tạo thành câu chuyện hoàn chỉnh:",
+            "category": "Sắp xếp câu chuyện",
+            "difficulty": "hard",
+            "options": [
+              {"id": "a", "text": "1. Mặt trời mọc. 2. Ngày mới bắt đầu. 3. Bé Lan đến trường."},
+              {"id": "b", "text": "2. Ngày mới bắt đầu. 1. Mặt trời mọc. 3. Bé Lan đến trường."},
+              {"id": "c", "text": "1. Ngày mới bắt đầu. 3. Mặt trời mọc. 2. Bé Lan đến trường."},
+              {"id": "d", "text": "3. Bé Lan đến trường. 1. Mặt trời mọc. 2. Ngày mới bắt đầu."}
+            ],
+            "correctAnswer": "a"
+          },
+          {
+            "id": 25,
+            "text": "Điền từ thích hợp vào câu: \"Bầu trời ... sau cơn mưa lớn.\"",
+            "category": "Lựa chọn từ ngữ",
+            "difficulty": "easy",
+            "options": [
+              {"id": "a", "text": "trong xanh"},
+              {"id": "b", "text": "u ám"},
+              {"id": "c", "text": "đen kịt"},
+              {"id": "d", "text": "mờ mịt"}
+            ],
+            "correctAnswer": "a"
+          },
+          {
+            "id": 26,
+            "text": "Chọn câu sử dụng biện pháp so sánh:",
+            "category": "Biện pháp nghệ thuật",
+            "difficulty": "medium",
+            "options": [
+              {"id": "a", "text": "Con suối chảy róc rách như tiếng hát."},
+              {"id": "b", "text": "Học sinh chăm chỉ làm bài tập."},
+              {"id": "c", "text": "Lan rất vui khi được điểm cao."},
+              {"id": "d", "text": "Cảnh vật thật yên bình."}
+            ],
+            "correctAnswer": "a"
+          },
+          {
+            "id": 27,
+            "text": "Thành ngữ nào nói về sự kiên trì?",
+            "category": "Thành ngữ - Tục ngữ",
+            "difficulty": "medium",
+            "options": [
+              {"id": "a", "text": "Có công mài sắt, có ngày nên kim"},
+              {"id": "b", "text": "Tốt gỗ hơn tốt nước sơn"},
+              {"id": "c", "text": "Đói ăn vụng, túng làm liều"},
+              {"id": "d", "text": "Ăn quả nhớ kẻ trồng cây"}
+            ],
+            "correctAnswer": "a"
+          },
+          {
+            "id": 28,
+            "text": "Câu nào là câu nêu đặc điểm?",
+            "category": "Loại câu",
+            "difficulty": "easy",
+            "options": [
+              {"id": "a", "text": "Chiếc áo này rất đẹp."},
+              {"id": "b", "text": "Mai đang làm bài tập."},
+              {"id": "c", "text": "Hôm nay là ngày lễ lớn."},
+              {"id": "d", "text": "Lan đi học về sớm."}
+            ],
+            "correctAnswer": "a"
+          },
+          {
+            "id": 29,
+            "text": "Chọn câu đúng chính tả:",
+            "category": "Quy tắc chính tả",
+            "difficulty": "easy",
+            "options": [
+              {"id": "a", "text": "Trái xoài chín."},
+              {"id": "b", "text": "Trái soài chín."},
+              {"id": "c", "text": "Trái zài chín."},
+              {"id": "d", "text": "Trái dày chín."}
+            ],
+            "correctAnswer": "a"
+          },
+          {
+            "id": 30,
+            "text": "Sắp xếp các từ sau để tạo thành câu có nghĩa: \"rất / bé / đáng yêu.\"",
+            "category": "Sắp xếp câu",
+            "difficulty": "medium",
+            "options": [
+              {"id": "a", "text": "Bé rất đáng yêu."},
+              {"id": "b", "text": "Rất đáng yêu bé."},
+              {"id": "c", "text": "Đáng yêu bé rất."},
+              {"id": "d", "text": "Bé yêu rất đáng."}
+            ],
+            "correctAnswer": "a"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Đề thi 02",
+        "questions": [
+          {
+            "id": 1,
+            "text": "What is the chemical symbol for Gold?",
+            "category": "Chemistry",
+            "difficulty": "easy",
+            "options": [
+              {"id": "a", "text": "Ag"},
+              {"id": "b", "text": "Fe"},
+              {"id": "c", "text": "Au"},
+              {"id": "d", "text": "Cu"}
+            ],
+            "correctAnswer": "c"
+          }
+        ]
+      }
+    ]
+  }

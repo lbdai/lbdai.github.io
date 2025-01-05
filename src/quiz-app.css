@@ -1,0 +1,119 @@
+/* Quiz Container Styles */
+.quiz-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f4f4f4;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Navigation Styles */
+  .subject-navigation {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+    margin-bottom: 15px;
+  }
+  
+  .subject-button {
+    padding: 8px 15px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+  }
+  
+  .subject-button-active {
+    background-color: #3b82f6;
+    color: white;
+  }
+  
+  .subject-button-inactive {
+    background-color: #e5e7eb;
+    color: black;
+  }
+  
+  /* Question Styles */
+  .question-container {
+    background-color: white;
+    border: 1px solid #e0e0e0;
+    border-radius: 6px;
+    padding: 15px;
+    margin-bottom: 15px;
+  }
+  
+  .question-title {
+    font-size: 1.1rem;
+    font-weight: 600;
+    margin-bottom: 10px;
+  }
+  
+  .options-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+  }
+  
+  .option-button {
+    padding: 12px;
+    border: 1px solid #d1d5db;
+    border-radius: 6px;
+    text-align: left;
+    cursor: pointer;
+    transition: background-color 0.2s;
+  }
+  
+  .option-button:hover {
+    background-color: #f3f4f6;
+  }
+  
+  /* Answer State Styles */
+  .option-selected {
+    background-color: #bae6fd;
+  }
+  
+  .option-correct {
+    background-color: #86efac;
+  }
+  
+  .option-incorrect {
+    background-color: #fca5a5;
+  }
+  
+  /* Results Styles */
+  .results-container {
+    background-color: #f3f4f6;
+    padding: 20px;
+    border-radius: 8px;
+  }
+  
+  .results-score {
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .results-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+  }
+  
+  .result-item {
+    background-color: white;
+    padding: 10px;
+    border-radius: 6px;
+  }
+  
+  /* Responsive Adjustments */
+  @media (max-width: 600px) {
+    .options-grid {
+      grid-template-columns: 1fr;
+    }
+  
+    .results-grid {
+      grid-template-columns: 1fr;
+    }
+  }
